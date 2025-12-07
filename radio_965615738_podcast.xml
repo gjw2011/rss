@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>经典老歌（网易云电台）</title>
+    <link>https://y.music.163.com/m/radio?id=965615738</link>
+    <description>经典老歌电台 - 播客兼容 RSS</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 07 Dec 2025 05:28:16 +0800</lastBuildDate>
+    <generator>网易云电台播客 RSS</generator>
+
+    <item>
+      <title>节目 1</title>
+      <enclosure url="https://example.com/audio1.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 1
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio1.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 2</title>
+      <enclosure url="https://example.com/audio2.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 2
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio2.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 3</title>
+      <enclosure url="https://example.com/audio3.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 3
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio3.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 4</title>
+      <enclosure url="https://example.com/audio4.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 4
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio4.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 5</title>
+      <enclosure url="https://example.com/audio5.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 5
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio5.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 6</title>
+      <enclosure url="https://example.com/audio6.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 6
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio6.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 7</title>
+      <enclosure url="https://example.com/audio7.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 7
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio7.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 8</title>
+      <enclosure url="https://example.com/audio8.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 8
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio8.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 9</title>
+      <enclosure url="https://example.com/audio9.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 9
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio9.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 10</title>
+      <enclosure url="https://example.com/audio10.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 10
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio10.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 11</title>
+      <enclosure url="https://example.com/audio11.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 11
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio11.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 12</title>
+      <enclosure url="https://example.com/audio12.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 12
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio12.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 13</title>
+      <enclosure url="https://example.com/audio13.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 13
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio13.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 14</title>
+      <enclosure url="https://example.com/audio14.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 14
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio14.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 15</title>
+      <enclosure url="https://example.com/audio15.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 15
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio15.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 16</title>
+      <enclosure url="https://example.com/audio16.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 16
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio16.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 17</title>
+      <enclosure url="https://example.com/audio17.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 17
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio17.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 18</title>
+      <enclosure url="https://example.com/audio18.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 18
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio18.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 19</title>
+      <enclosure url="https://example.com/audio19.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 19
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio19.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 20</title>
+      <enclosure url="https://example.com/audio20.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 20
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio20.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 21</title>
+      <enclosure url="https://example.com/audio21.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 21
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio21.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 22</title>
+      <enclosure url="https://example.com/audio22.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 22
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio22.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 23</title>
+      <enclosure url="https://example.com/audio23.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 23
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio23.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 24</title>
+      <enclosure url="https://example.com/audio24.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 24
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio24.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 25</title>
+      <enclosure url="https://example.com/audio25.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 25
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio25.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 26</title>
+      <enclosure url="https://example.com/audio26.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 26
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio26.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 27</title>
+      <enclosure url="https://example.com/audio27.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 27
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio27.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 28</title>
+      <enclosure url="https://example.com/audio28.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 28
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio28.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 29</title>
+      <enclosure url="https://example.com/audio29.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 29
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio29.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 30</title>
+      <enclosure url="https://example.com/audio30.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 30
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio30.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 31</title>
+      <enclosure url="https://example.com/audio31.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 31
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio31.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 32</title>
+      <enclosure url="https://example.com/audio32.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 32
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio32.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 33</title>
+      <enclosure url="https://example.com/audio33.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 33
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio33.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 34</title>
+      <enclosure url="https://example.com/audio34.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 34
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio34.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 35</title>
+      <enclosure url="https://example.com/audio35.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 35
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio35.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 36</title>
+      <enclosure url="https://example.com/audio36.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 36
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio36.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 37</title>
+      <enclosure url="https://example.com/audio37.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 37
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio37.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 38</title>
+      <enclosure url="https://example.com/audio38.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 38
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio38.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 39</title>
+      <enclosure url="https://example.com/audio39.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 39
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio39.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 40</title>
+      <enclosure url="https://example.com/audio40.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 40
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio40.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 41</title>
+      <enclosure url="https://example.com/audio41.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 41
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio41.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 42</title>
+      <enclosure url="https://example.com/audio42.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 42
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio42.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 43</title>
+      <enclosure url="https://example.com/audio43.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 43
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio43.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 44</title>
+      <enclosure url="https://example.com/audio44.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 44
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio44.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 45</title>
+      <enclosure url="https://example.com/audio45.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 45
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio45.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 46</title>
+      <enclosure url="https://example.com/audio46.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 46
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio46.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 47</title>
+      <enclosure url="https://example.com/audio47.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 47
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio47.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 48</title>
+      <enclosure url="https://example.com/audio48.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 48
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio48.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 49</title>
+      <enclosure url="https://example.com/audio49.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 49
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio49.mp3</guid>
+    </item>
+
+    <item>
+      <title>节目 50</title>
+      <enclosure url="https://example.com/audio50.mp3" length="12345678" type="audio/mpeg"/>
+      <description><![CDATA[
+        节目描述 50
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2025 05:28:16 +0800</pubDate>
+      <guid isPermaLink="true">https://example.com/audio50.mp3</guid>
+    </item>
+
+  </channel>
+</rss>
